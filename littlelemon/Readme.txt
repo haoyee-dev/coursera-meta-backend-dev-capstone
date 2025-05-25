@@ -2,7 +2,7 @@ Instructions for setup.
 
 You may install uv from https://docs.astral.sh/uv/getting-started/installation/
 Add the required package by running:
-uv install
+uv sync
 
 activate the virtual environment in the newly created .venv folder by running:
 .venv/Scripts/activate
